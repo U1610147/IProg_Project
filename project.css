@@ -6,6 +6,8 @@
     
     
 }
+h2{
+color: yellow; }
 
 .button1{
 
@@ -38,7 +40,7 @@
 
 body {
     /*font-family: "Lato", sans-serif; */
-    transition: background-color .5s;
+    transition: background-color .grey;
     
 } 
 
